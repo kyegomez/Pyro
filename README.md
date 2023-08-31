@@ -1,7 +1,8 @@
 [![Multi-Modality](agorabanner.png)](https://discord.gg/qUtxnK2NMf)
 
-# Paper-Implementation-Template
-This project is dedicated to finetuning models on how to create other models using pytorch and einops, we need to select the model and then create the datasets then train!
+# Finetuning LLMs on Pytorch/Einops to create better models!
+This project is dedicated to finetuning models on how to create other models using pytorch and einops, we need to select the model and then create the datasets then train!Finetuned Models on elaborate Pytorch/Einops code for models to synthesize state of the art models
+
 
 # Appreciation
 * Lucidrains
